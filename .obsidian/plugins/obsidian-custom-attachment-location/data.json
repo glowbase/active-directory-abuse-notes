@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "./evidence/screenshots",
+  "pastedImageFileName": "${date}",
+  "dateTimeFormat": "YYYYMMDDHHmmssSSS",
+  "autoRenameFolder": false,
+  "autoRenameFiles": false
+}

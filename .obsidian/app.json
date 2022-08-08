@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "foldHeading": true,
+  "showFrontmatter": true,
+  "livePreview": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-AU"
+  ],
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./evidence/screenshots",
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 70
+  },
+  "alwaysUpdateLinks": true
+}
