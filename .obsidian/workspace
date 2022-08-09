@@ -7,12 +7,8 @@
         "id": "7716c7b5b321f08e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "steps/got-username.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "steps/got-username.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "steps/got-username.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "steps/got-username.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,19 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "active": "7716c7b5b321f08e",
   "lastOpenFiles": [
-    "README.md",
-    "steps/persistence.md",
-    "steps/no-credentials.md",
-    "steps/lateral-movement.md",
-    "steps/got-username.md",
     "steps/got-credentials.md",
-    "steps/cracking-hashes.md",
-    "steps/trust-relationship.md",
+    "README.md",
+    "steps/bloodhound.md",
+    "steps/got-username.md",
+    "steps/got-administrator.md",
     "steps/domain-admin.md",
-    "steps/got-administrator-on-one-machine.md"
+    "steps/cracking-hashes.md",
+    "steps/certificate-services.md",
+    "steps/no-credentials.md",
+    "steps/lateral-movement.md"
   ]
 }

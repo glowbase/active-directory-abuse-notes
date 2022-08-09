@@ -19,7 +19,7 @@ Test each password against each username. Careful of lockout policy.
 crackmapexec smb 10.10.10.10 -u users.txt -p passwords.txt
 ```
 
-Credentials Found: [Next](got-credentials.md)
+Got Credentials: [Next](got-credentials.md)
 
 ## Testing Usernames
 ```bash

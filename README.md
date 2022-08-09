@@ -1,7 +1,9 @@
 # Active Directory Abuse
 A collection of notes for exploiting and abusing Active Directory environments.
 
-## Step-by-step Manual
-- [No Credentials](steps/no-credentials.md)
-- [Got Username](steps/got-username.md)
-- [Got Credentials](steps/got-credentials.md)
+## What have you got?
+- [Nothing](steps/no-credentials.md)
+- [Username](steps/got-username.md)
+- [Credentials](steps/got-credentials.md)
+- [Hashes](steps/cracking-hashes.md)
+- [Administrator](steps/got-administrator.md)
