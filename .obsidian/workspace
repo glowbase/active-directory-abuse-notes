@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "steps/got-credentials.md",
+            "file": "steps/got-username.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "steps/got-credentials.md",
+                "file": "steps/got-username.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "steps/got-credentials.md",
+                "file": "steps/got-username.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "steps/got-credentials.md"
+                "file": "steps/got-username.md"
               }
             }
           },
@@ -139,14 +139,14 @@
   "active": "7716c7b5b321f08e",
   "lastOpenFiles": [
     "README.md",
-    "steps/got-credentials.md",
-    "steps/got-username.md",
-    "manual/ad-manual.md",
-    "steps/lateral-movement.md",
+    "steps/persistence.md",
     "steps/no-credentials.md",
-    "Untitled.md",
+    "steps/lateral-movement.md",
+    "steps/got-username.md",
+    "steps/got-credentials.md",
     "steps/cracking-hashes.md",
     "steps/trust-relationship.md",
-    "steps/quick-compromise-methods.md"
+    "steps/domain-admin.md",
+    "steps/got-administrator-on-one-machine.md"
   ]
 }
