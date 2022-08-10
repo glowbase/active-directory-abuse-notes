@@ -101,6 +101,15 @@ CUSTOM CODE
   max-width: 800px;
 }
 
+.workspace-ribbon.side-dock-ribbon.mod-left {
+  flex: 0 0 40px;
+}
+
+.workspace-ribbon-collapse-btn {
+  text-align: center;
+  padding: 20px 0;
+}
+
 /* 
 -----------------------------------
 CUSTOM CODE

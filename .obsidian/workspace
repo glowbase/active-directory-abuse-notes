@@ -139,10 +139,10 @@
   "active": "7716c7b5b321f08e",
   "lastOpenFiles": [
     "README.md",
+    "steps/got-username.md",
     "steps/no-credentials.md",
     "steps/certificate-services.md",
     "steps/bloodhound.md",
-    "steps/got-username.md",
     "steps/got-credentials.md",
     "steps/got-administrator.md",
     "steps/domain-admin.md",
