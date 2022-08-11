@@ -2,7 +2,7 @@
 :root {
   --default-font: "Inter", sans-serif;
   --font-monospace: "Jetbrains Mono", monospace;
-  --font-editor-size: 0.9em;
+  --font-editor-size: 1em;
   --font-editor-linenumbers-size: medium;
   --font-h1-preview-size: 2em;
   --font-h2-preview-size: 1.5em;

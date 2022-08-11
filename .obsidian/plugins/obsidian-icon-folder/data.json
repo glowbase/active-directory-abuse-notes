@@ -6,7 +6,18 @@
     "iconColor": null,
     "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "(.*?)",
+        "icon": "RiFolder2Line",
+        "for": "folders"
+      },
+      {
+        "rule": "(.*?)",
+        "icon": "RiFileTextLine",
+        "for": "files"
+      }
+    ],
     "extraPadding": {
       "top": 2,
       "right": 2,
