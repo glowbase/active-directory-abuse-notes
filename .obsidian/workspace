@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "steps/got-username.md",
+            "file": "steps/no-credentials.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "steps/got-username.md",
+                "file": "steps/no-credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "steps/got-username.md",
+                "file": "steps/no-credentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "steps/got-username.md"
+                "file": "steps/no-credentials.md"
               }
             }
           },
@@ -139,12 +139,12 @@
   "active": "7716c7b5b321f08e",
   "lastOpenFiles": [
     "README.md",
-    "steps/got-username.md",
+    "steps/got-administrator.md",
     "steps/no-credentials.md",
+    "steps/got-username.md",
     "steps/certificate-services.md",
     "steps/bloodhound.md",
     "steps/got-credentials.md",
-    "steps/got-administrator.md",
     "steps/domain-admin.md",
     "steps/cracking-hashes.md",
     "steps/lateral-movement.md"

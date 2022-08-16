@@ -170,12 +170,6 @@ CUSTOM CODE
   line-height: 1.5em;
   font-size: var(--font-editor-size);
 }
-.cm-s-obsidian span.cm-hmd-codeblock,
-.cm-s-obsidian span.cm-hmd-indented-code,
-.cm-s-obsidian span.cm-math,
-.cm-s-obsidian pre.HyperMD-codeblock {
-  color: #828bb8;
-}
 .cm-s-obsidian span.cm-hmd-codeblock span.cm-keyword,
 .cm-s-obsidian span.cm-hmd-indented-code span.cm-keyword,
 .cm-s-obsidian span.cm-math span.cm-keyword,
