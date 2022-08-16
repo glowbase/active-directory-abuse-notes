@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "steps/got-username.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "steps/got-username.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "steps/got-username.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "steps/got-username.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "7716c7b5b321f08e",
   "lastOpenFiles": [
-    "steps/got-username.md",
     "README.md",
+    "steps/got-username.md",
     "steps/no-credentials.md",
     "steps/certificate-services.md",
     "steps/bloodhound.md",
